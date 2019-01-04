@@ -1,6 +1,6 @@
 # Site settings
-Titulo: Glauber Barbosa Porto
-Descrição: Glauber Porto CV
+title: Glauber Barbosa Porto
+description: Glauber Porto CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://glauberporto.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Glauber Barbosa Porto
-  title: Java Developer
+  title: Tecnologia da Informação
   address: Auckland, New Zealand
   email: dongg.liang#gmail.com
   link: http://ddbullfrog.com
