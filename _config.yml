@@ -3,7 +3,7 @@ title: Glauber Barbosa Porto
 description: Glauber Porto CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://glauberporto.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+url: ttps://glauberporto.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -16,13 +16,13 @@ exclude: [vendor]
 author:
   name: Glauber Barbosa Porto
   title: Tecnologia da Informação
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  address: Belo Horizonte, Minas Gerais - BR
+  email: glauberporto#gmail.com
+  link: 
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: glauberporto
+  linkedin: glauberporto
+  twitter: glauberporto
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
