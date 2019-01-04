@@ -77,6 +77,6 @@ author:
     - skill5:
       name: Java/Java EE
       percentage: 90%
-      - skill6:
+    - skill6:
       name: Servidor Linux
       percentage: 90%
