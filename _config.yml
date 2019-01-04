@@ -17,18 +17,18 @@ author:
   name: Glauber Barbosa Porto
   title: Tecnologia da Informação
   address: Belo Horizonte, Minas Gerais - BR
-  email: glauberporto#gmail.com
+  email: glauberporto@gmail.com
   link: 
   weibo:
   github: glauberporto
   linkedin: glauberporto
-  twitter: glauberporto
+  twitter: glauber_porto
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
+      company: Acoplation Andaimes Ltda
       location: Auckland, New Zealand
       title: Java Developer
       started: 2014
@@ -59,27 +59,24 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
   programmingSkills:
     - skill1:
       name: HTML
-      percentage: 100%
+      percentage: 10%
     - skill2:
       name: Bootstrap
-      percentage: 90%
+      percentage: 20%
     - skill3:
       name: JavaScript
-      percentage: 70%
+      percentage: 25%
     - skill4:
       name: AngularJS
-      percentage: 70%
+      percentage: 50%
     - skill5:
       name: Java/Java EE
+      percentage: 90%
+      - skill6:
+      name: Servidor Linux
       percentage: 90%
