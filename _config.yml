@@ -30,9 +30,9 @@ author:
     - work1:
       company: Acoplation Andaimes Ltda
       location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
+      title: Tecnico em Informatica
+      started: 2005
+      duration: (2005 - 2011)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
       company: XXX Ltd
@@ -64,19 +64,22 @@ author:
   programmingSkills:
     - skill1:
       name: HTML
-      percentage: 10%
+      percentage: 30%
     - skill2:
       name: Bootstrap
-      percentage: 20%
+      percentage: 5%
     - skill3:
       name: JavaScript
-      percentage: 25%
+      percentage: 5%
     - skill4:
       name: AngularJS
-      percentage: 50%
+      percentage: 1%
     - skill5:
       name: Java/Java EE
-      percentage: 90%
+      percentage: 10%
     - skill6:
       name: Servidor Linux
+      percentage: 90%
+    - skill7:
+      name: Servidor Windows
       percentage: 90%
