@@ -3,9 +3,9 @@ title: Glauber Barbosa Porto
 description: Glauber Porto CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://glauberporto.github.io/resumecard
-url: https://glauberporto.github.io/
+url: https://glauberporto.github.io/resumecard
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+# google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
