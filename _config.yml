@@ -64,23 +64,29 @@ author:
       proficiency: Basico
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 30%
+      name: Servidores Linux
+      percentage: 90%
     - skill2:
-      name: Bootstrap
-      percentage: 5%
+      name: Servidores Windows
+      percentage: 90%
     - skill3:
-      name: JavaScript
-      percentage: 5%
+      name: Redes
+      percentage: 90%
     - skill4:
-      name: AngularJS
-      percentage: 1%
+      name: Firewall
+      percentage: 80%
     - skill5:
-      name: Java/Java EE
-      percentage: 10%
+      name: Virtualização
+      percentage: 80%
     - skill6:
-      name: Servidor Linux
-      percentage: 90%
+      name: Backup
+      percentage: 80%
     - skill7:
-      name: Servidor Windows
+      name: Desktops / Notebooks
       percentage: 90%
+    - skill8:
+      name: PowerShell
+      percentage: 25%
+    - skill9:
+      name: Python
+      percentage: 25%
